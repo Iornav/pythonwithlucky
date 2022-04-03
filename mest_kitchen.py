@@ -1,7 +1,3 @@
-from multiprocessing.dummy import Array
-from urllib.parse import ParseResultBytes
-
-
 class User():
     first_name = ''
     last_name = ''
